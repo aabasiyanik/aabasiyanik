@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello 🌍! 
+---
+🎓 I'm a sophomore studying Mathematics & Computer Science at the University of Illinois at Urbana-Champaign. I'm passionate about robotics, machine learning, and exploring diverse topics in computer science. 💻🤖
+
+### 🌱 About This Repo
+
+This repository showcases my projects as I refine my technical skills and work towards becoming a software engineer. Let's connect and collaborate! 🤝
+
+### 🐛🎨 May Bugs Be Few and Creativity Flow!
+
 
 <!--
 **aabasiyanik/aabasiyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

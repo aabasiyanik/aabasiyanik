@@ -6,7 +6,7 @@
 
 This repository showcases my projects as I refine my technical skills and work towards becoming a software engineer. Let's connect and collaborate! 🤝
 
-### 🐛🎨 May Bugs Be Few and Creativity Flow!
+### 🐛
 
 
 <!--

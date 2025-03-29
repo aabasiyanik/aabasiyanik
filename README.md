@@ -1,12 +1,4 @@
-### Hello 🌍! 
----
-🎓 I'm a Junior studying Mathematics & Computer Science at the University of Illinois at Urbana-Champaign. I'm passionate about robotics, machine learning, and exploring diverse topics in computer science. 💻🤖
-
-### 🌱 About This Repo
-
-This repository showcases my projects as I refine my technical skills and work towards becoming a software engineer. Let's connect and collaborate! 🤝
-
-### 🐛
+vibecoding
 
 
 <!--
